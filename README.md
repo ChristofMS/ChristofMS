@@ -1,9 +1,10 @@
 ### Christof Mueller's Profile
 
-- :wave: Hi, I'm Christof!
-- :books: I'm a Columbia University – SIPA graduate student focusing on the intersection of economic policy, data analytics, and risk management.
+- 👋 Hi, I'm Christof!
+- 📚 I'm a Columbia University – SIPA graduate student focusing on the intersection of economic policy, data analytics, and risk management.
 - 🌱 I’m currently learning who to use Python for text analysis
-- :computer: I can coding in R, Python, SQL, and STATA
+- 💻 I can coding in R, Python, SQL, and STATA
+- 🇨🇭 I'm from Switzerland and a Univeristy of St. Gallen (HSG) alumni
 
 
 
