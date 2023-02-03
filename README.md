@@ -1,4 +1,11 @@
-### Hi there 👋
+### Christof Mueller's Profile
+
+- :wave: Hi, I'm Christof!
+- :books: I'm a Columbia University – SIPA graduate student focusing on the intersection of economic policy, data analytics, and risk management.
+- 🌱 I’m currently learning who to use Python for text analysis
+- :computer: I can coding in R, Python, SQL, and STATA
+
+
 
 <!--
 **ChristofMS/ChristofMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
